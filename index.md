@@ -3,4 +3,4 @@ title: Home
 layout: home
 ---
 
-# Scarapalooza
+# Scarapalooza :D
