@@ -10,4 +10,4 @@ layout: home
 
 ![resume](ScarameowForSnap.png)
 
-<iframe width="12307.6923077" height="10000" frameBorder=0 allowfullscreen allow="geolocation; microphone;camera" src="https://snap.berkeley.edu/embed?projectname=Scarapalooza&username=lisadacheese&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"></iframe>
+<iframe width="10000" height="10000" frameBorder=0 allowfullscreen allow="geolocation; microphone;camera" src="https://snap.berkeley.edu/embed?projectname=Scarapalooza&username=lisadacheese&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"></iframe>
