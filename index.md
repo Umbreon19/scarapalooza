@@ -8,4 +8,4 @@ layout: home
 
 ![scarameow](Scarameow!.png)
 
-![resume]()
+![resume](ScarameowForSnap.png)
