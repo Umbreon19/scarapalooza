@@ -6,4 +6,5 @@ layout: home
 # Scarapalooza :D
 #### skrunkly scrimblo
 
-![scarameow]()
+![scarameow](scarameow!.png)
+
