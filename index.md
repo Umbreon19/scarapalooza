@@ -10,4 +10,4 @@ layout: home
 
 ![resume](ScarameowForSnap.png)
 
-<embed src="https://drive.google.com/file/d/1t01eJvaaCAil5YPt5gpslXG3O8xyUreL/view?usp=sharing">
+<embed src="https://snap.berkeley.edu/embed?projectname=Scarapalooza&username=lisadacheese&showTitle=true&showAuthor=true&editButton=true&pauseButton=true">
