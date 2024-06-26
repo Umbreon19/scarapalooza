@@ -1,7 +1,8 @@
 title: Scarapalooza
 description: scarameow
+theme: just-the-docs
 
+url: https://umbreon19.github.io/scarapalooza/
 
-url: https://umbreon19.github.io/scarapalooza_press_space_to_clear/
-
-
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
